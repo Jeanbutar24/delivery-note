@@ -1,0 +1,184 @@
+{
+  "deliverydata": [
+    {
+      "id": "1341",
+      "kode_toko": "YKC",
+      "sales_name": "Ginelle Hatcliffe",
+      "address": "PO Box 81061",
+      "nomor_sj": "BF-F3-20-30-A5-9E",
+      "date_sj": "9/23/2022",
+      "status": true
+    },
+    {
+      "id": "22",
+      "kode_toko": "GVP",
+      "sales_name": "Drake Holdey",
+      "address": "Apt 1044",
+      "nomor_sj": "C0-06-60-AD-19-21",
+      "date_sj": "6/5/2022",
+      "status": false
+    },
+    {
+      "id": "86",
+      "kode_toko": "HAU",
+      "sales_name": "Brodie Ratie",
+      "address": "Apt 1160",
+      "nomor_sj": "26-30-5C-77-59-85",
+      "date_sj": "5/14/2022",
+      "status": true
+    },
+    {
+      "id": "262",
+      "kode_toko": "LIT",
+      "sales_name": "Laurianne Ritchard",
+      "address": "Apt 1100",
+      "nomor_sj": "0A-F6-46-9A-D5-B5",
+      "date_sj": "5/5/2022",
+      "status": false
+    },
+    {
+      "id": "5435",
+      "kode_toko": "CVH",
+      "sales_name": "Anni Gamage",
+      "address": "Room 1412",
+      "nomor_sj": "0F-19-4B-85-0B-2C",
+      "date_sj": "1/10/2023",
+      "status": true
+    },
+    {
+      "id": "3868",
+      "kode_toko": "TBO",
+      "sales_name": "Honor Poe",
+      "address": "PO Box 15018",
+      "nomor_sj": "D2-1D-1F-D0-C0-44",
+      "date_sj": "6/20/2022",
+      "status": true
+    },
+    {
+      "id": "3",
+      "kode_toko": "HSN",
+      "sales_name": "Denys Stanners",
+      "address": "PO Box 6255",
+      "nomor_sj": "0E-D0-77-8E-BC-2B",
+      "date_sj": "7/13/2022",
+      "status": true
+    },
+    {
+      "id": "905",
+      "kode_toko": "RBO",
+      "sales_name": "Fayre Jukubczak",
+      "address": "PO Box 97367",
+      "nomor_sj": "96-E6-7E-28-6F-D7",
+      "date_sj": "5/21/2022",
+      "status": false
+    },
+    {
+      "id": "1382",
+      "kode_toko": "LTS",
+      "sales_name": "Bryn Laxson",
+      "address": "2nd Floor",
+      "nomor_sj": "60-BF-CE-61-8A-AA",
+      "date_sj": "1/2/2023",
+      "status": true
+    },
+    {
+      "id": "950",
+      "kode_toko": "DPT",
+      "sales_name": "Kori Kidsley",
+      "address": "PO Box 19648",
+      "nomor_sj": "9A-E8-6B-C2-37-4D",
+      "date_sj": "11/11/2022",
+      "status": true
+    },
+    {
+      "id": "5785",
+      "kode_toko": "TKW",
+      "sales_name": "Mattie Readwin",
+      "address": "17th Floor",
+      "nomor_sj": "01-65-CC-8C-E0-29",
+      "date_sj": "10/22/2022",
+      "status": false
+    },
+    {
+      "id": "33",
+      "kode_toko": "PEU",
+      "sales_name": "Novelia Zorro",
+      "address": "Suite 49",
+      "nomor_sj": "D7-D9-F3-6C-F0-F8",
+      "date_sj": "12/2/2022",
+      "status": false
+    },
+    {
+      "id": "281",
+      "kode_toko": "JBB",
+      "sales_name": "Thedrick Tabary",
+      "address": "Apt 27",
+      "nomor_sj": "13-93-1F-D4-E8-0C",
+      "date_sj": "11/24/2022",
+      "status": false
+    },
+    {
+      "id": "372",
+      "kode_toko": "YDO",
+      "sales_name": "Inger Hoggan",
+      "address": "Suite 82",
+      "nomor_sj": "CF-23-A9-D8-A5-5C",
+      "date_sj": "3/9/2022",
+      "status": false
+    },
+    {
+      "id": "1462",
+      "kode_toko": "TAU",
+      "sales_name": "Jeanie Kaas",
+      "address": "Suite 10",
+      "nomor_sj": "08-6F-71-F8-54-24",
+      "date_sj": "2/28/2022",
+      "status": false
+    },
+    {
+      "id": "9",
+      "kode_toko": "OAK",
+      "sales_name": "Arlen Sprague",
+      "address": "17th Floor",
+      "nomor_sj": "19-AC-1A-11-1A-F1",
+      "date_sj": "8/27/2022",
+      "status": true
+    },
+    {
+      "id": "10",
+      "kode_toko": "DSX",
+      "sales_name": "Noak Vannucci",
+      "address": "Room 1239",
+      "nomor_sj": "E5-F2-62-10-F5-8A",
+      "date_sj": "12/27/2022",
+      "status": true
+    },
+    {
+      "id": "365",
+      "kode_toko": "NCT",
+      "sales_name": "Saw Dignam",
+      "address": "12th Floor",
+      "nomor_sj": "8E-86-AF-86-92-32",
+      "date_sj": "3/15/2022",
+      "status": false
+    },
+    {
+      "id": "65",
+      "kode_toko": "TTJ",
+      "sales_name": "Richie Rising",
+      "address": "Room 1916",
+      "nomor_sj": "E2-E2-30-21-F9-4D",
+      "date_sj": "12/10/2022",
+      "status": true
+    },
+    {
+      "id": "4065",
+      "kode_toko": "BPC",
+      "sales_name": "Danielle Berzen",
+      "address": "6th Floor",
+      "nomor_sj": "8C-E2-8C-92-0D-38",
+      "date_sj": "6/14/2022",
+      "status": true
+    }
+  ]
+}
