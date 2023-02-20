@@ -10,6 +10,12 @@ module.exports = {
         Roboto: ['Roboto', 'sans-serif'],
         Lato: ['Lato', 'sans-serif'],
       },
+      gridTemplateRows: {
+        8: 'repeat(8, minmax(0, 1fr))',
+      },
+      translate: {
+        tr: 'translate(-50%, -50%)',
+      },
     },
   },
   plugins: [],

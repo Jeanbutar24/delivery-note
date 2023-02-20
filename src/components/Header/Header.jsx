@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className='h-[90px] w-full '>
       <div className='flex items-center justify-between h-full px-4'>
-        <p className='text-[36px] font-[600] text-[#393838] font-Roboto tracking-[2px] ml-[12px]'>Delivery Note</p>
+        <p className='text-[24px] sm:text-[32px] md:text-[36px] font-[600] text-[#393838] font-Roboto tracking-[2px] ml-[12px]'>Delivery Note</p>
         <div className='flex gap-2 mr-[11px] items-center'>
           <div className='rounded-[50%] h-[47px] w-[45px] overflow-hidden mr-2 border-2 border-[#ffffff]'>
             <Image
